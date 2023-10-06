@@ -35,6 +35,6 @@ function Test(sentence) {
     return longest;
   }
   
-  const sentence = "Smart people learn from everything and everyone, average people from their experience, stupid people already, have all the answers” (Socrates)";
+  const sentence = "Smart people learn from everything and everyone, average people from their experience, stupid people already, have all the answers (Socrates)";
   console.log("longest word:", Test(sentence)); 
   
